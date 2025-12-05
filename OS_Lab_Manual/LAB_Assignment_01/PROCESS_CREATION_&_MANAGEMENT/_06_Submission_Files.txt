@@ -1,0 +1,15 @@
+✔ process_management.py
+
+Contains code for all 5 tasks.
+
+✔ output.txt
+
+Contains screenshot/text output of all tasks.
+
+✔ report.pdf
+
+Contains objectives, explanations, code images & results.
+
+✔ README.md
+
+Instructions to run the tasks.

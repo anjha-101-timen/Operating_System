@@ -1,0 +1,10 @@
+Name: AJAY NATH JHA
+Roll.No: 2301010170
+
+OS LAB ASSIGNMENT – SHEET 3
+Course Code: ENCS303 – Operating System
+Experiment Title:
+Simulation of File Allocation, Memory Management, and Scheduling in Python
+Program: B.Tech (CSE Core)
+Section: C
+Semester: V

@@ -1,0 +1,9 @@
+Name: AJAY NATH JHA
+Roll.No: 2301010170
+
+OS LAB EXPERIMENT – PROCESS CREATION & MANAGEMENT (Python, OS Module)
+Course Code: ENCS303 – Operating System
+Experiment Title: Process Creation and Management Using Python OS Module
+Program: B.Tech (CSE Core)
+Section: C
+Semester: V

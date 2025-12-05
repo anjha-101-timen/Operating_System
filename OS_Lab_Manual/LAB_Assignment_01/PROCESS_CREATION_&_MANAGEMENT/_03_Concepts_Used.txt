@@ -1,0 +1,9 @@
+os.fork(), os.getpid(), os.getppid()
+
+os.execvp(), subprocess.run()
+
+os.wait() / os._exit()
+
+/proc/[pid]/status, /proc/[pid]/exe, /proc/[pid]/fd
+
+os.nice() for priority-based scheduling

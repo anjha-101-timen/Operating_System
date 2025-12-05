@@ -1,0 +1,11 @@
+This assignment successfully demonstrated:
+
+CPU scheduling using Priority and Round Robin
+
+File allocation using Sequential and Indexed methods
+
+Memory allocation using First-fit, Best-fit, Worst-fit
+
+Memory management strategies: MFT & MVT
+
+All concepts are simulated using Python to help build a strong foundational understanding of OS internals.

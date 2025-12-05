@@ -1,0 +1,9 @@
+To simulate Linux process creation and management using Python.
+
+To understand fork(), exec(), process hierarchy, and state transitions.
+
+To create zombie and orphan processes.
+
+To analyze process details from the /proc filesystem.
+
+To observe how nice values affect process scheduling.

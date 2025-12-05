@@ -1,0 +1,6 @@
+After performing this experiment, the student will be able to:
+
+✔ Demonstrate creating and managing processes using Python’s multiprocessing module
+✔ Simulate system startup and termination through scripting logic
+✔ Implement logging using the logging library
+✔ Understand real-time OS-like behavior through process lifecycle monitoring

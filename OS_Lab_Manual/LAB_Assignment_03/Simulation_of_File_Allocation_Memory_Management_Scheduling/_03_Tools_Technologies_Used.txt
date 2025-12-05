@@ -1,0 +1,5 @@
+Python 3.x
+
+Built-in modules: os, time, multiprocessing
+
+Linux OS (optional)

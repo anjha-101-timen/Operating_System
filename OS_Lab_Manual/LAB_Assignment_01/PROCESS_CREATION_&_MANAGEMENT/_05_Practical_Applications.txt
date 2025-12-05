@@ -1,0 +1,7 @@
+OS kernel design & process scheduler behavior
+
+Monitoring and debugging tools (like htop, ps)
+
+Embedded and real-time systems
+
+Performance tuning through process priorities          

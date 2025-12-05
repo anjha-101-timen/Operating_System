@@ -1,0 +1,5 @@
+| Criteria                       | Max Marks | How Requirements Are Fulfilled                                       |
+| ------------------------------ | --------- | -------------------------------------------------------------------- |
+| Understanding & Implementation | **5**     | Correct simulation of scheduling, file allocation, memory management |
+| Output & Accuracy              | **5**     | Sample outputs included for every task                               |
+| Code Clarity & Explanation     | **10**    | Well-commented, structured, clearly explained code                   |

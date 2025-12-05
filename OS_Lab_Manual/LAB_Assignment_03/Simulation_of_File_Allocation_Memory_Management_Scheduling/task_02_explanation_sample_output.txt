@@ -1,0 +1,7 @@
+The disk is an array of blocks
+
+A file must occupy continuous blocks
+
+Free block = 0
+
+File A allocated from block 3 to 6

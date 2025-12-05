@@ -1,0 +1,3 @@
+First Fit → Allocated in block 0  
+Best Fit → Allocated in block 3  
+Worst Fit → Allocated in block 1  

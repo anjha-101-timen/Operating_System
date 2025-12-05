@@ -1,0 +1,10 @@
+A sample log file generated after execution:
+
+2025-07-16 12:35:21,005 - Process-1 - Process-1 started
+2025-07-16 12:35:21,006 - Process-2 - Process-2 started
+2025-07-16 12:35:21,007 - Process-3 - Process-3 started
+2025-07-16 12:35:23,008 - Process-1 - Process-1 ended
+2025-07-16 12:35:23,010 - Process-2 - Process-2 ended
+2025-07-16 12:35:23,012 - Process-3 - Process-3 ended
+
+The timestamps and process names may vary depending on system environment.

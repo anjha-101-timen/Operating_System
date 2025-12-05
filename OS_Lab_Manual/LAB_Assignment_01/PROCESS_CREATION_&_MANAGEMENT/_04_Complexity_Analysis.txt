@@ -1,0 +1,6 @@
+| Task                          | Time Complexity | Space Complexity |
+| ----------------------------- | --------------- | ---------------- |
+| Process creation (N children) | **O(N)**        | **O(N)**         |
+| exec() commands               | **O(N)**        | **O(1)**         |
+| /proc reading                 | **O(1)**        | **O(1)**         |
+| CPU-intensive tasks           | **O(n)** loops  | **O(1)**         |

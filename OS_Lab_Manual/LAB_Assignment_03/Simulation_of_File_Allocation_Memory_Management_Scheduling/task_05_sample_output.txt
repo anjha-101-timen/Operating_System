@@ -1,0 +1,5 @@
+Process allocated in partition 2  
+Internal Fragmentation = 40 KB  
+
+Process allocations: [120, 80, None]
+Remaining memory: 50 KB

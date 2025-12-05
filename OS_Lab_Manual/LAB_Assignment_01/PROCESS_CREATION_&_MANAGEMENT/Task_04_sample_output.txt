@@ -1,0 +1,7 @@
+Name: python3
+State: S (sleeping)
+VmSize: 224508 kB
+Threads: 5
+
+Executable Path: /usr/bin/python3.10
+Open File Descriptors: ['0', '1', '2', '3']

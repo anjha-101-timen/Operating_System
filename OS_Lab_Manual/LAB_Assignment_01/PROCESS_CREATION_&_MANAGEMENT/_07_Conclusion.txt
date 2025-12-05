@@ -1,0 +1,1 @@
+This lab experiment successfully demonstrates Linux process creation, process hierarchy, execution of system commands, detection of zombie/orphan states, /proc filesystem usage, and priority scheduling using nice values. The student gains practical understanding of OS-level process management.

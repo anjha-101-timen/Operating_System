@@ -1,0 +1,25 @@
+Logging Setup
+
+process_log.txt is created automatically
+
+Logs include timestamp, process name, and event message
+
+system_process()
+
+Simulates a real OS service
+
+Logs start time
+
+Sleeps for 2 seconds (imitating work being done)
+
+Logs termination
+
+Main Section
+
+Prints System Starting…
+
+Creates three processes for demonstration
+
+Starts and joins all processes
+
+Prints System Shutdown at the end

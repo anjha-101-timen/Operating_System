@@ -1,0 +1,9 @@
+To simulate major operating system concepts using Python, including:
+
+CPU Scheduling algorithms (Priority & Round Robin)
+
+File Allocation methods (Sequential & Indexed)
+
+Memory Allocation techniques (First-fit, Best-fit, Worst-fit)
+
+Memory Management strategies (MFT & MVT)

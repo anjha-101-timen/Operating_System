@@ -1,0 +1,15 @@
+Understanding & Implementation (5 marks)
+
+✔ Correct use of multiprocessing
+✔ Simulated startup → process creation → shutdown
+
+Output & Logging Accuracy (5 marks)
+
+✔ Log file records exact process lifecycle
+✔ Terminal prints required messages
+
+Code Explanation & Clarity (10 marks)
+
+✔ Clean formatting
+✔ Proper inline comments
+✔ Organized and readable structure

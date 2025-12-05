@@ -1,0 +1,8 @@
+After completing this experiment, the student will be able to:
+
+✔ Understand process lifecycle (creation → running → waiting → exit).
+✔ Create child processes using os.fork().
+✔ Execute commands inside child using exec() / subprocess.run().
+✔ Demonstrate zombie and orphan states.
+✔ Read process information using /proc/<pid>/.
+✔ Assign priorities using nice() and observe effects.

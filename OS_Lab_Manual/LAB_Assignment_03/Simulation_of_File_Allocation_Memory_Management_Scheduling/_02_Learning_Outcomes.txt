@@ -1,0 +1,7 @@
+After completing this experiment, the student will be able to:
+
+✔ Analyze and simulate CPU scheduling algorithms
+✔ Implement file allocation strategies in Python
+✔ Demonstrate dynamic and static memory allocation
+✔ Understand real OS memory and file management behavior
+✔ Draw Gantt charts and compute performance metrics

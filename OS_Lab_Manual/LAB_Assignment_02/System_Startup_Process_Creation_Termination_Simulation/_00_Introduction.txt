@@ -1,0 +1,9 @@
+Name: AJAY NATH JHA
+Roll.No: 2301010170
+
+OS LAB ASSIGNMENT – SHEET 2
+Course Code: ENCS303 – Operating System
+Experiment Title: System Startup, Process Creation, and Termination Simulation in Python
+Program: B.Tech (CSE Core)
+Section: C
+Semester: V

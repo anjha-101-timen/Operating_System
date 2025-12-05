@@ -1,0 +1,4 @@
+[Child] PID: 1324, PPID: 1320, Message: Child 0 created
+[Child] PID: 1325, PPID: 1320, Message: Child 1 created
+[Child] PID: 1326, PPID: 1320, Message: Child 2 created
+Parent waited for all children

@@ -1,0 +1,10 @@
+This experiment successfully demonstrated the simulation of a system startup environment using Python.
+Students learned how to:
+
+Create independent system-like processes
+
+Track their lifecycle using logs
+
+Simulate OS-like behavior at a fundamental level
+
+This enhances understanding of real-world operating system process management and logging.

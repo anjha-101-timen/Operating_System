@@ -1,0 +1,10 @@
+To understand and simulate how an operating system starts, creates processes, monitors them, and shuts down.
+This assignment focuses on:
+
+Simulating system startup and system shutdown
+
+Creating multiple processes using Python
+
+Implementing a logging mechanism that records process lifecycle
+
+Observing how processes run independently in multiprocessing

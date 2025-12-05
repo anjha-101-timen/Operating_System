@@ -1,0 +1,5 @@
+Executing command in child 1455: ls
+process_management.py  report.pdf
+
+Executing command in child 1456: date
+Mon Dec 01 10:23:10 IST 2025
